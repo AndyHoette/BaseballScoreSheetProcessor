@@ -1,3 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eYDL9omR)
-# CSE330
-REPLACE-THIS-TEXT-WITH-YOUR-NAME-STUDENT-ID-AND-GITHUB-USERNAME
+Used Python and regular expressions to calculate baseball sabermetrics such as batting average, hits, and at bats from existing archival records (retroSheets)
